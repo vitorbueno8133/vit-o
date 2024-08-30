@@ -1,0 +1,12 @@
+header {
+    background-color: #90b0e4;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+footer{
+    background-color: rgb(174, 198, 230);
+    text-align: center;
+}
